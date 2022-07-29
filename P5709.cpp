@@ -1,8 +1,7 @@
 #include <bits/stdc++.h>
 
 int main() {
-    unsigned int m, t;
-    unsigned long s, allTime;
+    unsigned int m, t, s, allTime;
     std::cin >> m >> t >> s;
 
     allTime = m * t;
